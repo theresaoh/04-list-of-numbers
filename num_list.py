@@ -13,5 +13,3 @@ def print_each_number_and_its_square(nums):
         print("The square of", num, "is", num*num)
     
 
-print_each_number(nums)
-print_each_number_and_its_square(nums)
